@@ -1,0 +1,14 @@
+D:\Sibenice\Sibenice\bin\Debug\netcoreapp3.1\Sibenice.deps.json
+D:\Sibenice\Sibenice\bin\Debug\netcoreapp3.1\Sibenice.dll
+D:\Sibenice\Sibenice\bin\Debug\netcoreapp3.1\Sibenice.pdb
+D:\Sibenice\Sibenice\obj\Debug\netcoreapp3.1\Sibenice.csproj.AssemblyReference.cache
+D:\Sibenice\Sibenice\obj\Debug\netcoreapp3.1\Sibenice.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sibenice\Sibenice\obj\Debug\netcoreapp3.1\Sibenice.AssemblyInfoInputs.cache
+D:\Sibenice\Sibenice\obj\Debug\netcoreapp3.1\Sibenice.AssemblyInfo.cs
+D:\Sibenice\Sibenice\obj\Debug\netcoreapp3.1\Sibenice.csproj.CoreCompileInputs.cache
+D:\Sibenice\Sibenice\obj\Debug\netcoreapp3.1\Sibenice.dll
+D:\Sibenice\Sibenice\obj\Debug\netcoreapp3.1\Sibenice.pdb
+D:\Sibenice\Sibenice\bin\Debug\netcoreapp3.1\Sibenice.exe
+D:\Sibenice\Sibenice\bin\Debug\netcoreapp3.1\Sibenice.runtimeconfig.json
+D:\Sibenice\Sibenice\bin\Debug\netcoreapp3.1\Sibenice.runtimeconfig.dev.json
+D:\Sibenice\Sibenice\obj\Debug\netcoreapp3.1\Sibenice.genruntimeconfig.cache
